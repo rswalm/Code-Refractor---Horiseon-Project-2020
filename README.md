@@ -14,7 +14,7 @@ As per the criteria set out in the user story, I have refracted their existing c
 * Link of image of first screen was written in css that is not a good programming trait so I have moved it to html file.
 * Add all titles to images so that it describes when they hover to that image.
 
-![](./assets/images/firstpage.png)
+![first page](./assets/images/firstpage.png)
 ![first page part 2](./assets/images/firstpagepart2.png)
 ![first page part 3](./assets/images/firstpagepart3.png)
 
