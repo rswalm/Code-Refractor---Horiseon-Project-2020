@@ -19,21 +19,4 @@ As per the criteria set out in the user story, I have refracted their existing c
 ![](firstpagepart3.PNG)
 
 
-```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-
-1. I have put all comments in proper places so that there is no confusion for another developer who tries to make changes to this code.
-2. There were many css classes they were used uniquely which was not needed as copious elements were having same styles with different names.
-3. Link of image of first screen was written in css that is not a good programming trait so I have moved it to html file.
-4. Add all titles to images so that it describes when they hover to that image.
 
